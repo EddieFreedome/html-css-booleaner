@@ -18,7 +18,8 @@ body {
 
 #logo {
     text-align: left;
-    width: 300px;
+    width: 250px;
+    margin-top: 60px; /*su suggerimento speciale*/
 }
 
 h1 {
@@ -51,8 +52,15 @@ figcaption {
     font-size: 10px;
 }
 
-/*Sezione Centrale*/
+/*Tabella*/
+th {
+    color: white;
+    background-color:#2b8eff;
+}
 
+.tabody {
+    background-color: rgba(135, 206, 250, 0.747);
+}
 
 
 
